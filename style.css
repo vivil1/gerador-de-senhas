@@ -7,7 +7,7 @@ body {
     --rosa: rgb(0, 0, 0);
     --ouro:hsl(0, 0%, 100%);
     --cinza: gray;
-    --verde: chartreuse;
+    --verde: rgb(0, 0, 0);
     --azul-claro: cornflowerblue;
     --branco:#FFFFFF;
 }
