@@ -1,6 +1,7 @@
 body {
     background-color: var(--cinza);
 }
+
 :root {
     --fonte-titulo: "Bebas Neue", sans-serif;
     --rosa: hotpink;
@@ -132,6 +133,7 @@ label {
     background-color: green;
     width: 100%;
 }
+
 .forca {
     height: 30px;
     position: relative;
