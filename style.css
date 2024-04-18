@@ -67,6 +67,7 @@ body {
     border-bottom: 2px solid var(--rosa);
     background-color: var(--ouro);
     margin: 0;
+    color: var(--ouro);
 }
 
 .parametro-titulo {
