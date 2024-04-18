@@ -5,10 +5,11 @@ body {
 :root {
     --fonte-titulo: "Bebas Neue", sans-serif;
     --rosa: hotpink;
-    --ouro:hsl(60, 85%, 57%);
+    --ouro:hsl(0, 0%, 100%);
     --cinza: gray;
     --verde: chartreuse;
     --azul-claro: cornflowerblue;
+    --branco:#FFFFFF;
 }
 
 .conteudo-titulo {
