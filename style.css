@@ -5,11 +5,11 @@ body {
 :root {
     --fonte-titulo: "Bebas Neue", sans-serif;
     --rosa: rgb(0, 0, 0);
-    --ouro:hsl(0, 0%, 100%);
+    --ouro: hsl(0, 0%, 100%);
     --cinza: gray;
     --verde: rgb(80, 77, 238);
     --azul-claro: rgb(0, 0, 0);
-    --branco:#FFFFFF;
+    --branco: #FFFFFF;
 }
 
 .conteudo-titulo {
@@ -29,6 +29,7 @@ body {
     font-family: var(--fonte-titulo);
     border: none;
     font-size: 25px;
+    color: white;
 }
 
 .conteudo-senha {
@@ -52,8 +53,6 @@ body {
     display: flex;
     margin: 50px;
 }
-
-@media screen and(min-width: 768px) {}
 
 .parametro-senha_botao {
     background-color: var(--ouro);
